@@ -4,3 +4,4 @@
 (using this you will get all the information about the user)
 3. netsh wlan show profiles "username" key=clear
 (using this you can get password of the user)
+note: change username with the any name you get in step1
