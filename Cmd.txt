@@ -1,0 +1,6 @@
+1. netsh wlan show profiles
+(using this you will get all the username in which your pc is connected using wifi)
+2. netsh wlan show profiles "username"
+(using this you will get all the information about the user)
+3. netsh wlan show profiles "username" key=clear
+(using this you can get password of the user)
